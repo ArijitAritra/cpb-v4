@@ -178,8 +178,8 @@ def Banner():
 def options():
     option = '''
     {}USAGE {}
-      [{}python JEx.py {}list.txt{}
-       python JEx.py {}Dork{}{}]
+      [{}python cpb.py {}list.txt{}
+       python cpb.py {}Dork{}{}]
     '''.format(r, w, c, g, c, g, c, w)
     print(option)
 
